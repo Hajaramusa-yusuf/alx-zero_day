@@ -1,2 +1,3 @@
 “my second commit”
-"Now we I'm creating a conflict"
+"Now I'm creating a conflict"
+I hope it works 
